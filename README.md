@@ -12,7 +12,7 @@ This project is a robust anomaly detection engine built entirely in SQL to analy
 **Tier 1: Foundational Anomalies**
 
 **1. Velocity Fraud:** Isolated accounts processing an unnatural volume of 30+ daily transactions.
-![Pattern 1 Suspects](<img width="323" height="596" alt="Screenshot 2026-09-08 231725" src="https://github.com/user-attachments/assets/c331f3ef-b8ce-4390-ada5-d17d48db0582" />).
+![Pattern 1 Suspects]<img width="323" height="596" alt="Screenshot 2026-09-08 231725" src="https://github.com/user-attachments/assets/c331f3ef-b8ce-4390-ada5-d17d48db0582" />
 
 
 **2. Round-Amount Clustering:** Flagged users with 15+ clean, round-number transactions, a classic money-laundering signature.
